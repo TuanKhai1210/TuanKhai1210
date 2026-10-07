@@ -1,0 +1,25 @@
+name: Update profile visuals
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "10 17 * * 0" # Monday 00:10 in Vietnam (UTC+7)
+  push:
+    branches: [main]
+    paths:
+      - awaken.json
+      - .github/workflows/awaken.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: awaken-profile
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: TuanKhai1210/git-profile-awaken@50fbb73c627db9b61805c3fed794150eecd3175a
