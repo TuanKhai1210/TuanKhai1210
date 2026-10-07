@@ -1,0 +1,25 @@
+{
+  "username": "TuanKhai1210",
+  "layout": "custom",
+  "widgets": ["banner", "spotlight", "contacts"],
+  "theme": "tokyonight",
+  "motion": "calm",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "hours": false,
+  "banner": {
+    "style": "system",
+    "lines": [
+      "Ta Tuan Khai",
+      "Building toward SOC L1 / Security Analyst"
+    ]
+  },
+  "spotlight": [
+    "TuanKhai1210/reloop-hub",
+    "volethanhtrieu/YOLOv26_PPE_project_team_15"
+  ],
+  "socials": [
+    { "type": "website", "url": "https://tuankhai1210.github.io/portfolio/", "label": "Portfolio" },
+    { "type": "linkedin", "url": "https://www.linkedin.com/in/khai-ta-tuan-11a945414/", "label": "LinkedIn" },
+    { "type": "email", "url": "mailto:tuankhaina1210@gmail.com", "label": "Email" }
+  ]
+}
