@@ -13,8 +13,30 @@ My recent projects combine Python backend development and computer vision.
 </p>
 
 <p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/bio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/bio-light.svg"><img src="awaken/bio-dark.svg" width="49%" alt="TuanKhai1210: character"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/career-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/career-light.svg"><img src="awaken/career-dark.svg" width="49%" alt="TuanKhai1210: career log"></picture>
+</p>
+
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/arsenal-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/arsenal-light.svg"><img src="awaken/arsenal-dark.svg" width="100%" alt="TuanKhai1210: arsenal"></picture>
+</p>
+
+<p align="center">
 <a href="https://github.com/TuanKhai1210/reloop-hub"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/spotlight-1-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/spotlight-1-light.svg"><img src="awaken/spotlight-1-dark.svg" width="49%" alt="TuanKhai1210/reloop-hub"></picture></a>
 <a href="https://github.com/volethanhtrieu/YOLOv26_PPE_project_team_15"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/spotlight-2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/spotlight-2-light.svg"><img src="awaken/spotlight-2-dark.svg" width="49%" alt="volethanhtrieu/YOLOv26_PPE_project_team_15"></picture></a>
+</p>
+
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/hunter-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/hunter-light.svg"><img src="awaken/hunter-dark.svg" width="100%" alt="TuanKhai1210: hunter license"></picture>
+</p>
+
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/activity-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/activity-light.svg"><img src="awaken/activity-dark.svg" width="100%" alt="TuanKhai1210: shadow extraction"></picture>
+</p>
+
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/contribution-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/contribution-light.svg"><img src="awaken/contribution-dark.svg" width="49%" alt="TuanKhai1210: contribution log"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/combat-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/combat-light.svg"><img src="awaken/combat-dark.svg" width="49%" alt="TuanKhai1210: combat record"></picture>
 </p>
 
 <p align="center">
