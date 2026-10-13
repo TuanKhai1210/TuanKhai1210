@@ -23,3 +23,5 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: TuanKhai1210/git-profile-awaken@50fbb73c627db9b61805c3fed794150eecd3175a
+        with:
+          commit-message: "chore(profile): regenerate GitHub activity widgets [skip ci]"
