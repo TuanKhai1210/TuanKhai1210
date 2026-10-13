@@ -1,9 +1,23 @@
 {
   "username": "TuanKhai1210",
   "layout": "custom",
-  "widgets": ["banner", "spotlight", "contacts"],
+  "widgets": [
+    "banner",
+    "bio",
+    "career",
+    "arsenal",
+    "spotlight",
+    "hunter",
+    "activity",
+    "contribution",
+    "combat",
+    "contacts"
+  ],
   "theme": "tokyonight",
+  "icons": "brand",
   "motion": "calm",
+  "activity": "arise",
+  "title": "auto",
   "timezone": "Asia/Ho_Chi_Minh",
   "hours": false,
   "banner": {
@@ -13,6 +27,47 @@
       "Building toward SOC L1 / Security Analyst"
     ]
   },
+  "bio": {
+    "role": "Computer Science student · HCMUT",
+    "focus": "SOC L1 / Security Analyst · applied AI",
+    "location": "Ho Chi Minh City, Vietnam",
+    "about": "Cyber Clinics graduate with team-project work in Python backends and PPE tracking. Accepted into an HCMUT XAI research group on 3D/4D reconstruction."
+  },
+  "career": [
+    {
+      "role": "Computer Science student",
+      "org": "HCMUT · expected 2028",
+      "current": true
+    },
+    {
+      "role": "Cyber Clinics program completed",
+      "org": "HUST · supported by TAF",
+      "current": false
+    },
+    {
+      "role": "XAI research group admission",
+      "org": "HCMUT · 3D/4D reconstruction",
+      "current": false
+    },
+    {
+      "role": "Second Prize · Physics",
+      "org": "HCMC student Physics competition",
+      "years": "2024",
+      "current": false
+    }
+  ],
+  "arsenal": [
+    "Python",
+    "FastAPI",
+    "PostgreSQL",
+    "React",
+    "Vite",
+    "Git",
+    "PyTorch",
+    "OpenCV",
+    "Weights & Biases",
+    "ByteTrack"
+  ],
   "spotlight": [
     "TuanKhai1210/reloop-hub",
     "volethanhtrieu/YOLOv26_PPE_project_team_15"

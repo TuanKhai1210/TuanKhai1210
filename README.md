@@ -24,6 +24,8 @@ My recent projects combine Python backend development and computer vision.
 </p>
 <!-- AWAKEN:END -->
 
+<sub>Ranks and classes summarize public GitHub activity. The technology inventory lists tools used or studied in my projects; it is not a proficiency score.</sub>
+
 ## Selected work
 
 **[ReLoop Hub](https://github.com/TuanKhai1210/reloop-hub/tree/dev)** — A team prototype for campus bottle-return workflows. I contributed to the FastAPI/PostgreSQL backend, return and reward services, JWT/role checks, reporting, and a React/Vite staff dashboard with campus routing. [Backend integration](https://github.com/TuanKhai1210/reloop-hub/commit/0775066) · [Routing work](https://github.com/TuanKhai1210/reloop-hub/commit/d8c4339)
