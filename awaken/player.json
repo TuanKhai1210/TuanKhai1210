@@ -1,27 +1,27 @@
 {
   "login": "TuanKhai1210",
-  "level": 6,
-  "overall": "B",
-  "overallPercentile": 0.766740756940372,
+  "level": 7,
+  "overall": "A",
+  "overallPercentile": 0.8953443240227231,
   "layout": "custom",
   "class": {
     "name": "Grand Magus",
     "element": "Arcane",
-    "from": "Python"
+    "from": "Jupyter Notebook"
   },
-  "title": "Polyglot",
+  "title": "Gate Opener",
   "stats": [
     {
       "code": "STR",
-      "value": 119,
-      "rank": "C",
-      "percentile": 0.7159270479442743
+      "value": 142,
+      "rank": "B",
+      "percentile": 0.7528647883482276
     },
     {
       "code": "AGI",
-      "value": 30,
-      "rank": "A",
-      "percentile": 0.9276224957554485
+      "value": 38,
+      "rank": "S",
+      "percentile": 0.9444163410025995
     },
     {
       "code": "INT",
@@ -31,66 +31,87 @@
     },
     {
       "code": "VIT",
-      "value": 11,
+      "value": 12,
       "rank": "S",
-      "percentile": 0.9499142157630279
+      "percentile": 0.9612128887423135
     },
     {
       "code": "LUK",
-      "value": 0,
-      "rank": "E",
-      "percentile": 0
+      "value": 3,
+      "rank": "B",
+      "percentile": 0.8392329308802627
     },
     {
       "code": "CHA",
-      "value": 1,
+      "value": 2,
       "rank": "C",
-      "percentile": 0.6689367771328458
+      "percentile": 0.7154979269401185
     }
   ],
   "events": [
     {
-      "kind": "achievement",
-      "subject": "polyglot",
-      "from": "2",
-      "to": "3",
-      "at": "2026-10-18T19:24:42.963Z"
+      "kind": "level",
+      "subject": "Level",
+      "from": "6",
+      "to": "7",
+      "at": "2026-10-25T19:34:45.429Z"
+    },
+    {
+      "kind": "overall",
+      "subject": "Overall rank",
+      "from": "B",
+      "to": "A",
+      "at": "2026-10-25T19:34:45.429Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "STR",
+      "from": "C",
+      "to": "B",
+      "at": "2026-10-25T19:34:45.429Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "AGI",
+      "from": "A",
+      "to": "S",
+      "at": "2026-10-25T19:34:45.429Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "LUK",
+      "from": "E",
+      "to": "B",
+      "at": "2026-10-25T19:34:45.429Z"
     },
     {
       "kind": "achievement",
-      "subject": "collector",
+      "subject": "healer",
       "from": "0",
       "to": "1",
-      "at": "2026-10-18T19:24:42.963Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "boss-slayer",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-11T20:57:11.755Z"
+      "at": "2026-10-25T19:34:45.429Z"
     }
   ],
   "achievements": [
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 26
+      "value": 33
     },
     {
       "id": "quickdraw",
       "tier": 2,
-      "value": 14
+      "value": 16
     },
     {
       "id": "yolo",
       "tier": 2,
-      "value": 16
+      "value": 19
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 119
+      "value": 142
     },
     {
       "id": "unbroken",
@@ -110,12 +131,12 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 33
+      "value": 32
     },
     {
       "id": "gate-opener",
       "tier": 3,
-      "value": 67
+      "value": 68
     },
     {
       "id": "raider",
@@ -129,23 +150,23 @@
     },
     {
       "id": "healer",
-      "tier": 0,
-      "value": 9
+      "tier": 1,
+      "value": 13
     },
     {
       "id": "polyglot",
-      "tier": 3,
-      "value": 8
+      "tier": 1,
+      "value": 4
     },
     {
       "id": "star-collector",
       "tier": 0,
-      "value": 0
+      "value": 3
     },
     {
       "id": "beacon",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "guild-hopper",
@@ -165,12 +186,12 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 95
+      "value": 100
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "perfect-week",
@@ -180,12 +201,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 5
+      "value": 8
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 2
+      "value": 3
     },
     {
       "id": "escape-artist",
@@ -195,11 +216,16 @@
     {
       "id": "collector",
       "tier": 1,
-      "value": 4
+      "value": 5
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-25",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-18",
         "cleared": 3,
@@ -221,11 +247,12 @@
         "total": 3
       }
     ],
-    "perfectDays": 1,
+    "perfectDays": 2,
     "run": 1,
     "bestRun": 1,
-    "questsDone": 5,
+    "questsDone": 8,
     "bosses": [
+      "2026-10-19",
       "2026-10-12",
       "2026-10-05"
     ],
@@ -234,8 +261,9 @@
       "contribute",
       "average",
       "three",
-      "streak"
+      "streak",
+      "two-repos"
     ]
   },
-  "syncedAt": "2026-10-18T19:24:42.963Z"
+  "syncedAt": "2026-10-25T19:34:45.429Z"
 }
