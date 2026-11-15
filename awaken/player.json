@@ -2,7 +2,7 @@
   "login": "TuanKhai1210",
   "level": 8,
   "overall": "A",
-  "overallPercentile": 0.898834846038848,
+  "overallPercentile": 0.8991280862164167,
   "layout": "custom",
   "class": {
     "name": "Grand Magus",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 151,
+      "value": 153,
       "rank": "B",
-      "percentile": 0.7651105523316776
+      "percentile": 0.7676901136011212
     },
     {
       "code": "AGI",
-      "value": 40,
+      "value": 41,
       "rank": "S",
-      "percentile": 0.9476889854197987
+      "percentile": 0.9492171917995365
     },
     {
       "code": "INT",
@@ -48,34 +48,12 @@
       "percentile": 0.7543639478096587
     }
   ],
-  "events": [
-    {
-      "kind": "level",
-      "subject": "Level",
-      "from": "7",
-      "to": "8",
-      "at": "2026-11-08T21:06:12.039Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "CHA",
-      "from": "C",
-      "to": "B",
-      "at": "2026-11-01T21:09:58.459Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "polyglot",
-      "from": "1",
-      "to": "2",
-      "at": "2026-11-01T21:09:58.459Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 35
+      "value": 36
     },
     {
       "id": "quickdraw",
@@ -90,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 151
+      "value": 153
     },
     {
       "id": "unbroken",
@@ -155,7 +133,7 @@
     {
       "id": "veteran",
       "tier": 2,
-      "value": 3
+      "value": 4
     },
     {
       "id": "berserker",
@@ -165,7 +143,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 105
+      "value": 106
     },
     {
       "id": "daily-grinder",
@@ -200,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-15",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-08",
         "cleared": 2,
@@ -256,5 +239,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-11-08T21:06:12.039Z"
+  "syncedAt": "2026-11-15T21:43:39.708Z"
 }
