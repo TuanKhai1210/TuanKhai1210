@@ -2,7 +2,7 @@
   "login": "TuanKhai1210",
   "level": 8,
   "overall": "A",
-  "overallPercentile": 0.8991280862164167,
+  "overallPercentile": 0.8984495031005131,
   "layout": "custom",
   "class": {
     "name": "Grand Magus",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 153,
+      "value": 154,
       "rank": "B",
-      "percentile": 0.7676901136011212
+      "percentile": 0.7689616507643852
     },
     {
       "code": "AGI",
-      "value": 41,
+      "value": 42,
       "rank": "S",
-      "percentile": 0.9492171917995365
+      "percentile": 0.9506790555647697
     },
     {
       "code": "INT",
@@ -43,12 +43,20 @@
     },
     {
       "code": "CHA",
-      "value": 3,
-      "rank": "B",
-      "percentile": 0.7543639478096587
+      "value": 2,
+      "rank": "C",
+      "percentile": 0.7154979269401185
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "stat",
+      "subject": "CHA",
+      "from": "B",
+      "to": "C",
+      "at": "2026-11-22T22:26:05.851Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -68,7 +76,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 153
+      "value": 154
     },
     {
       "id": "unbroken",
@@ -103,12 +111,12 @@
     {
       "id": "flawless",
       "tier": 1,
-      "value": 88
+      "value": 86
     },
     {
       "id": "healer",
       "tier": 1,
-      "value": 15
+      "value": 16
     },
     {
       "id": "polyglot",
@@ -123,7 +131,7 @@
     {
       "id": "beacon",
       "tier": 0,
-      "value": 3
+      "value": 2
     },
     {
       "id": "guild-hopper",
@@ -143,7 +151,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 106
+      "value": 108
     },
     {
       "id": "daily-grinder",
@@ -163,7 +171,7 @@
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 4
+      "value": 5
     },
     {
       "id": "escape-artist",
@@ -178,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-22",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-15",
         "cleared": 0,
@@ -224,6 +237,7 @@
     "bestRun": 1,
     "questsDone": 10,
     "bosses": [
+      "2026-11-16",
       "2026-10-26",
       "2026-10-19",
       "2026-10-12",
@@ -239,5 +253,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-11-15T21:43:39.708Z"
+  "syncedAt": "2026-11-22T22:26:05.851Z"
 }
